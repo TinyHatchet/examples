@@ -1,0 +1,16 @@
+{
+  "name": "tinyhatchet-example-node",
+  "version": "1.0.0",
+  "description": "TinyHatchet node example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Code Monkey Software LLC",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "github.com/tinyhatchet/examples/"
+  }
+}
